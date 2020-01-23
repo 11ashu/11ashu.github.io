@@ -1,2 +1,0 @@
-# ashu.github.io
-demo
